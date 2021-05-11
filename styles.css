@@ -22,3 +22,6 @@ text {
   pointer-events: none;
   font-family: 'Playfair Display', serif;
 }
+text hover{
+  font-size: 50px;
+}
